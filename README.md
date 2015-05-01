@@ -8,8 +8,9 @@ This is still in its infancy - it doesn't do anything fancy like extract authors
 
 ## Usage
 
-1. Drag this link to your bookmarks bar (add a name too, some browsers don't by default)
-2. Click the bookmark on your favourite page
+1. Click [https://raw.githubusercontent.com/DCRichards/texyTime/master/texytime.js](this link)
+2. Select all the code and drag it to your bookmarks bar (add a name too, some browsers don't by default)
+2. Click the bookmark on your the page you want to reference
 3. Enter the name used for citation (or keep the default) and receive an instant BibTeX reference in an alert box
 4. Paste it into your .bib file and add tweak anything that's not quite right
 5. profit
