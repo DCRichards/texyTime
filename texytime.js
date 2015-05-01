@@ -3,13 +3,13 @@ javascript: (function() {
     parser.href = window.location.href;
     var refname = prompt('Enter the name of your citiation', 'online:'+parser.hostname);
     var title = document.title;
-    var viewDate = new Date();
+    var viewDate = new Date().getDate + '-' + new Date().getMonth() + '-' + new Date().getYear();
     var refString = '@online{' + refname + ',\n'
             + '\tauthor = {},\n'
             + '\ttitle = {{' + title + '}},\n'
-            + '\tyear = ' + viewDate.getFullYear() + ',\n'
+            + '\tyear = ' + new Date().getFullYear() + ',\n'
             + '\turl = {' + parser.href + '},\n'
-            + '\turldate = {' + viewDate.toDateString() + '}\n'
+            + '\turldate = {' + viewDate + '}\n'
             + '}';
     alert(refString);
 }());
