@@ -1,6 +1,6 @@
 #TexyTime
 
-I've been spending alot of time copying and pasting references and editing them whilst writing in LaTeX recently, especially when it comes to referencing websites. I figured it would be much easier if I could grab the BibTeX (or at least most of it) straight from a website without even leaving the page.
+I've been spending alot of time copying and pasting references and editing them whilst writing in LaTeX recently, especially when it comes to referencing websites. I figured it would be much easier if I could grab the BibTeX (or at least most of it) straight from a website without even leaving the page. Enter __texyTime__!
 
 ## Growing Up
 
@@ -8,8 +8,8 @@ This is still in its infancy - it doesn't do anything fancy like extract authors
 
 ## Usage
 
-1. Drag this link to your bookmarks bar
+1. Drag this link to your bookmarks bar (add a name too, some browsers don't by default)
 2. Click the bookmark on your favourite page
-3. Receive an instant BibTeX reference
-4. Paste it into your .bib file and add any missing info
-5. profit 
+3. Enter the name used for citation (or keep the default) and receive an instant BibTeX reference in an alert box
+4. Paste it into your .bib file and add tweak anything that's not quite right
+5. profit
