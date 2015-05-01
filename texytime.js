@@ -1,5 +1,5 @@
 /**
- * texyTime: quick bibtex for websites
+ * texyTime: quick BibTeX for websites
  * @author DCRichards
  **/
 javascript: (function() {
